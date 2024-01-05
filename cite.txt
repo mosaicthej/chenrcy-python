@@ -1,0 +1,36 @@
+江戸川乱歩　『陰獣』「蟲」，博文館『陰獣』（1928年発売）
+西尾維新　『猫物語(黒)』，2010年7月29日, 讲谈社, ISBN 978-4-06-283748-4
+Rowling, J. K. (2000). Harry Potter / Harry Potter and the Philosopher’s Stone. Petersen. 
+
+动画作品：
+西尾維新（原作）　新房昭之（导演）　『化物語』动画制作：SHAFT, 制作：Aniplex、讲谈社、SHAFT
+西尾維新（原作）　新房昭之（导演）　『偽物語』动画制作：SHAFT, 制作：Aniplex、讲谈社、SHAFT
+久米田 康治（原作）　新房昭之（导演）　『さよなら絶望先生』动画制作: SHAFT, 制作: 绝望先生制作委员会
+
+音乐作品：
+Radiohead, Not My Fault (2003, CD)
+初音ミク　「歌に形はないけれど」（2008）doriko（作詞・作曲・編曲）
+
+文档：
+Python 3.12.1 documentation https://docs.python.org/3/
+Python Image Library Pillow documentation (Pillow for PIL) https://pillow.readthedocs.io/en/stable/
+Numpy documentation https://numpy.org/doc/stable/
+MDN 开发技术文档 https://developer.mozilla.org/zh-CN/docs/Web/HTML
+
+代码仓库：
+mosaicthej/kaoNoKotoba https://github.com/mosaicthej/kaoNoKotoba
+
+参考资料：
+James, Tate, Magical Girl Martyrs: Puella Magi Madoka Magica and Purity, Beauty, and Passivity, University of Oregon, Scholar's Bank, Oregon Undergraduate Research Journal: Vol. 11 No. 1 (2017) , http://hdl.handle.net/1794/23491
+Katarzyna Wasylak, Need for Speed: Anime, the Cinematic, and the Philosophical, Children's Literature Association Quarterly, Johns Hopkins University Press, Volume 35, Number 4, Winter 2010, pp. 427-434, doi: 10.1353/chq.2010.0025,https://muse.jhu.edu/article/404128
+彭巧蓉 (Peng, Chiao Jung), 推理輕小說的敘述與人物與構造的研究─西尾維新的「斬首循環」與乙一「GOTH」, 中国文化大学，日本語文學系，http://ir.lib.pccu.edu.tw/handle/987654321/29716
+Asurudo, 知乎专栏，基于化物语的对新房昭之艺术风格对剧情表达作用的分析, https://zhuanlan.zhihu.com/p/132437913, 2020-04, 网页备份：https://web.archive.org/web/20230000000000*/https://zhuanlan.zhihu.com/p/132437913 于互联网档案馆
+楊庭安_醫學系，blogpost 博客，新房昭之物語 從《化物語》看新房昭之的導演手法，https://artliketravel.blogspot.com/2012/01/blog-post_2677.html, 2012-01, 网页备份：https://web.archive.org/web/20230000000000*/https://artliketravel.blogspot.com/2012/01/blog-post_2677.html 于互联网档案馆
+Kayson Carlin, SHAFT: A Visual Journey, Bowling Green State University, February 20, 2018, NEET Knowledge Base, https://neetknowledgebase.wordpress.com/2018/03/18/shaft-a-visual-journey/, 网页备份：https://web.archive.org/web/20231229145440/https://neetknowledgebase.wordpress.com/2018/03/18/shaft-a-visual-journey/ 于互联网档案馆
+Timothy E. Moore, Journal of Marketing, American Marketing Association, Vol. 46, No. 2, April 1982, https://doi.org/10.1177/002224298204600205
+Elliotte Rusty Harold， W. Scott Means, XML in a Nutshell, O'Reilly Media, Inc., 2004, ISBN: 9780596007645
+Joshua Bloch, How to design a good API and why it matters, OOPSLA '06: Companion to the 21st ACM SIGPLAN symposium on Object-oriented programming systems, languages, and applicationsOctober 2006Pages 506–507https://doi.org/10.1145/1176617.1176622
+J. Hughes, Why Functional Programming Matters, The Computer Journal, Volume 32, Issue 2, 1989, Pages 98–107, https://doi.org/10.1093/comjnl/32.2.98
+Philip Wadler, The essence of functional programming (Invited talk), University of Glasgow, 1992 ACM 089791453-8/92/0001/0001, https://dl.acm.org/doi/pdf/10.1145/143165.143169
+S. MacDonald, D. Szafron, J. Schaeffer, J. Anvik, S. Bromling and K. Tan, "Generative design patterns," Proceedings 17th IEEE International Conference on Automated Software Engineering,, Edinburgh, UK, 2002, pp. 23-34, doi: 10.1109/ASE.2002.1114991.
+Romero, M., Lepage, A. & Lille, B. Computational thinking development through creative programming in higher education. Int J Educ Technol High Educ 14, 42 (2017). https://doi.org/10.1186/s41239-017-0080-z
